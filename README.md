@@ -2,7 +2,7 @@
 
 The goal of this notebook is to showcase the Bayesian (SMBO) hyperparameter optimization technique on a simple classification problem. The library that I am going to use for this endeavour is Hyperopt, which I can only recommend for its simple usage and excellent results in fine-tuning the model.
 
-The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github/omglu93/data_structuring_extraction/blob/master/losangl_data.ipynb).
+The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github/omglu93/hyperopt_optimization/blob/master/optimization_LGB.ipynb).
 
 ![los](/images/shopping.jpg)
 
