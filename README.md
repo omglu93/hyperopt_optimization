@@ -4,14 +4,13 @@ The goal of this notebook is to showcase the Bayesian (SMBO) hyperparameter opti
 
 The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github/omglu93/data_structuring_extraction/blob/master/losangl_data.ipynb).
 
-![los](images/los-angeles-skyline.jpg)
+![los](/images/shopping.jpg)
 
 
 # Primary goal : Create a LightGBM ML model for the classification problem 
 
 The classification problem was tackled with LightGBM, a tree-based machine-learning algorithm that dominated multiple Kaggle competitions. It is generally a great choice due to its many benefits regarding the speed and accuracy of predictions. Also, its GOSS and EFB inner workings allow me to play around with data on a decade-old laptop.
 
-https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf
 
 # Secondary goal : Hyperparameter optimization using the Bayesian method
 
@@ -34,3 +33,8 @@ The data is provided by Yomi Kastro & C. Okan Sakar.
 
 # License
 MIT. See the LICENSE file for the copyright notice.
+
+# References:
+
+1. https://conference.scipy.org/proceedings/scipy2013/pdfs/bergstra_hyperopt.pdf
+2. https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf
